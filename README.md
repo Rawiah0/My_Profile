@@ -1,15 +1,13 @@
 <h1 align="center">Hi👋, I'm Rawiah Alruwaili</h1>
 <h3 align="center">A passionate data science & AI practitioner.</h3>
 
-- 🔭 I’m currently working on **multiple computer vision projects.**
+- 🔭 I’m currently working on **multiple AI projects.**
 
 - 🌱 I’m currently learning **advanced AI concepts.**
 
 - 💬 Ask me about **computer vision applications and neural networks.**
 
 - 📫 How to reach me **rawiahalruwaili@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
